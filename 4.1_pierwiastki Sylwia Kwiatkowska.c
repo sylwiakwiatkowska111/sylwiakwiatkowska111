@@ -14,7 +14,8 @@ int main(void)
     printf("\tc=");
     scanf("%d",&c);
 
-    if (a==0){
+    if (a==0)
+        {
         printf("Wspolczynnik a musi byc rozny od zera!!\n");
     }
 
