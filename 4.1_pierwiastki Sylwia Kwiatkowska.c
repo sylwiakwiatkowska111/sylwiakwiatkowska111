@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void)
-{
+int main(void){
     printf("Program liczy pierwiastki rownania kwadratowego.\n\n");
     float delta,pierwiastek,x1,x2;
     int a,b,c;
